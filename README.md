@@ -2,6 +2,7 @@
 Ein Typo3.10 mit eigenem Backend und Icons
 Zip Datei auspacken und ins EXT-Verzeichnis kopieren.
 Im EXT- Manager importieren und installieren.
+Im Rooz-Template einbinden.
 Browser neu starten.
 In der CSS nach Farben und den Schriftzug anpassen.
 
